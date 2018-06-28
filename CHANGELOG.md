@@ -27,6 +27,7 @@
  - #261 Implement Network Resource Block
  - #298 Include Network Resource Blocks into Resource Blocks collection
  - #293 Implement Storage ResourceBlock
+ - #262 Implement Capabilities endpoint
 
 # New Redfish resources
  - EventService
